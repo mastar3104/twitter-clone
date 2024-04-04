@@ -1,0 +1,20 @@
+.title {
+    text-align: center;
+}
+
+.userArea {
+    display: grid;
+    grid-template-columns: 33% 33% 34%;
+    place-items: center;
+    margin-bottom: -2px;
+    border: 2px solid #444;
+    padding: 10px 0 10px 0;
+    border-radius: 10px;
+}
+
+
+.userIcon {
+    height: 60px;
+    vertical-align: middle;
+    border-radius: 50%;
+}
